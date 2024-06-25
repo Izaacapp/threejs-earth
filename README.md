@@ -1,5 +1,3 @@
-
-
 # THREE.js Earth Scene
 
 This project creates a 3D Earth scene using THREE.js, a JavaScript 3D library. The Earth is textured using high-resolution maps, and various visual enhancements such as clouds and atmosphere effects are added to create a realistic representation.
@@ -76,6 +74,13 @@ threejs-earth/
    npm install
    ```
 
+### Installing Live Server Extension
+
+1. Open Visual Studio Code.
+2. Go to the Extensions view by clicking on the Extensions icon in the Activity Bar on the side of the window or by pressing `Ctrl+Shift+X` (`Cmd+Shift+X` on macOS).
+3. In the Extensions view search bar, type "Live Server" and press `Enter`.
+4. Click on the "Live Server" extension from the search results and then click the "Install" button.
+
 ### Running the Project
 
 1. Open the project in Visual Studio Code.
@@ -100,6 +105,4 @@ This project is licensed under the MIT License. See the LICENSE file for details
 
 - [THREE.js](https://threejs.org/) - JavaScript 3D Library
 - [PlanetPixelEmporium](https://planetpixelemporium.com/earth.html) - Earth Texture Maps
-
-
 
